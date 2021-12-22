@@ -1,0 +1,149 @@
+PS	Type_of_Amino_acid	Frequency
+Eukaryota	M	0.02
+Eukaryota	E	0.07
+Eukaryota	D	0.05
+Eukaryota	Q	0.04
+Eukaryota	V	0.06
+Eukaryota	G	0.06
+Eukaryota	F	0.04
+Eukaryota	R	0.06
+Eukaryota	P	0.05
+Eukaryota	N	0.04
+Eukaryota	L	0.09
+Eukaryota	H	0.02
+Eukaryota	Y	0.03
+Eukaryota	K	0.07
+Eukaryota	I	0.05
+Eukaryota	T	0.05
+Eukaryota	S	0.09
+Eukaryota	A	0.06
+Eukaryota	C	0.02
+Eukaryota	W	0.01
+Eukaryota	*	0.0
+Eukaryota	X	0.0
+Tracheophyta	M	0.02
+Tracheophyta	I	0.05
+Tracheophyta	F	0.04
+Tracheophyta	D	0.06
+Tracheophyta	L	0.09
+Tracheophyta	H	0.02
+Tracheophyta	R	0.06
+Tracheophyta	P	0.05
+Tracheophyta	K	0.07
+Tracheophyta	V	0.06
+Tracheophyta	Y	0.03
+Tracheophyta	N	0.05
+Tracheophyta	A	0.05
+Tracheophyta	T	0.05
+Tracheophyta	Q	0.04
+Tracheophyta	G	0.06
+Tracheophyta	S	0.1
+Tracheophyta	E	0.07
+Tracheophyta	C	0.02
+Tracheophyta	W	0.01
+Tracheophyta	*	0.0
+Tracheophyta	X	0.0
+Cellular Organisms	M	0.02
+Cellular Organisms	V	0.07
+Cellular Organisms	E	0.06
+Cellular Organisms	D	0.05
+Cellular Organisms	P	0.05
+Cellular Organisms	R	0.05
+Cellular Organisms	A	0.07
+Cellular Organisms	T	0.05
+Cellular Organisms	I	0.06
+Cellular Organisms	K	0.06
+Cellular Organisms	S	0.09
+Cellular Organisms	Y	0.03
+Cellular Organisms	W	0.01
+Cellular Organisms	L	0.1
+Cellular Organisms	C	0.02
+Cellular Organisms	F	0.04
+Cellular Organisms	N	0.04
+Cellular Organisms	G	0.07
+Cellular Organisms	H	0.02
+Cellular Organisms	Q	0.03
+Cellular Organisms	*	0.0
+Cellular Organisms	X	0.0
+Brassicaceae	M	0.03
+Brassicaceae	G	0.06
+Brassicaceae	K	0.07
+Brassicaceae	P	0.05
+Brassicaceae	R	0.06
+Brassicaceae	S	0.09
+Brassicaceae	V	0.06
+Brassicaceae	T	0.05
+Brassicaceae	I	0.05
+Brassicaceae	F	0.04
+Brassicaceae	L	0.09
+Brassicaceae	A	0.06
+Brassicaceae	E	0.07
+Brassicaceae	W	0.01
+Brassicaceae	D	0.05
+Brassicaceae	N	0.04
+Brassicaceae	Y	0.03
+Brassicaceae	C	0.02
+Brassicaceae	H	0.02
+Brassicaceae	Q	0.03
+Brassicaceae	*	0.0
+Brassicaceae	X	0.0
+Annotated Orphans	M	0.04
+Annotated Orphans	K	0.09
+Annotated Orphans	Y	0.04
+Annotated Orphans	H	0.03
+Annotated Orphans	F	0.05
+Annotated Orphans	S	0.14
+Annotated Orphans	E	0.04
+Annotated Orphans	P	0.07
+Annotated Orphans	W	0.03
+Annotated Orphans	R	0.06
+Annotated Orphans	C	0.02
+Annotated Orphans	I	0.06
+Annotated Orphans	A	0.05
+Annotated Orphans	L	0.08
+Annotated Orphans	Q	0.03
+Annotated Orphans	N	0.1
+Annotated Orphans	T	0.06
+Annotated Orphans	G	0.02
+Annotated Orphans	D	0.01
+Annotated Orphans	V	0.01
+Orphan EB ORFs	M	0.03
+Orphan EB ORFs	P	0.07
+Orphan EB ORFs	R	0.09
+Orphan EB ORFs	A	0.09
+Orphan EB ORFs	D	0.05
+Orphan EB ORFs	I	0.05
+Orphan EB ORFs	T	0.05
+Orphan EB ORFs	V	0.04
+Orphan EB ORFs	G	0.08
+Orphan EB ORFs	E	0.09
+Orphan EB ORFs	H	0.04
+Orphan EB ORFs	N	0.03
+Orphan EB ORFs	S	0.04
+Orphan EB ORFs	L	0.09
+Orphan EB ORFs	W	0.03
+Orphan EB ORFs	F	0.01
+Orphan EB ORFs	Q	0.04
+Orphan EB ORFs	K	0.05
+Non Genic ORFs	M	0.02
+Non Genic ORFs	D	0.05
+Non Genic ORFs	K	0.06
+Non Genic ORFs	H	0.02
+Non Genic ORFs	P	0.05
+Non Genic ORFs	Y	0.03
+Non Genic ORFs	L	0.1
+Non Genic ORFs	E	0.07
+Non Genic ORFs	V	0.07
+Non Genic ORFs	R	0.05
+Non Genic ORFs	F	0.04
+Non Genic ORFs	I	0.05
+Non Genic ORFs	S	0.09
+Non Genic ORFs	N	0.04
+Non Genic ORFs	A	0.06
+Non Genic ORFs	C	0.02
+Non Genic ORFs	T	0.05
+Non Genic ORFs	G	0.06
+Non Genic ORFs	Q	0.04
+Non Genic ORFs	W	0.01
+Non Genic ORFs	*	0.0
+Non Genic ORFs	X	0.0
